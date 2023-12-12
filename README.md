@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Jee Hwan</h1> <img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+<h1 align="left">Hi, I'm Jee Hwan</h1> <img align="right" alt="Coding" width="250" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 
 - 🔭 I’m currently working on a bootcamp, individual and group projects
 - 🤔 I’m looking for help with Java...
