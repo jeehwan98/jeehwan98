@@ -8,4 +8,4 @@
 <img align="left" alt="python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt=/>
 <img align="left" alt="python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
 <img align="left" alt="python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Coding" height="60" src= "https://habrastorage.org/files/0b7/1ba/efa/0b71baefa9a345de8eda95a406067e42.gif">
+<img align="left" alt="Coding" height="60" width="60" src= "https://habrastorage.org/files/0b7/1ba/efa/0b71baefa9a345de8eda95a406067e42.gif">
