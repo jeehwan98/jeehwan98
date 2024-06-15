@@ -6,6 +6,9 @@ Hi there! My name is Jee Hwan Kim. I am a passionate 25-year-old full-stack web 
 
 I am actively seeking opportunities where I can contribute to innovative and meaningful projects. I thrive in collaborative environments and enjoy working with individuals who share my enthusiasm for programming and coding. If you are looking for a dedicated and driven developer to join your party, I would love to connect 😄
 
+Feel free to connect
+jeehwan98@naver.com
+
 <h2>Projects</h2>
 
 <h3>LOGIN</h3>
